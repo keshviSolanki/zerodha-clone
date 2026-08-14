@@ -1,0 +1,23 @@
+.footLink {
+  color: #6c757d;        /* text-muted color */
+  text-decoration: none; /* remove underline */
+}
+
+.footLink:hover {
+    opacity: 1;
+    color: rgb(56, 126, 209);           /* hover color */
+    text-decoration: none; /* keep underline removed */
+}
+
+.icons{
+    padding-left: 10px;
+}
+
+.icons i {
+    padding-right: 50px;
+}
+
+.icons i:hover{
+    opacity: 1;
+    color: rgb(56, 126, 209);
+}
